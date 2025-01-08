@@ -44,10 +44,11 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SplashNoiseOffset1: 100
-    - _SplashNoiseOffset2: 200
-    - _SplashNoiseScale1: 0.706
-    - _SplashNoiseScale2: 0.088
+    - _SplashNoiseOffset1: 0.706
+    - _SplashNoiseOffset2: 0.088
+    - _SplashNoiseOffset3: 4.18
+    - _SplashNoiseScale1: 100
+    - _SplashNoiseScale2: 200
     - _SplashNoiseScale3: 4.18
     - _SplashPower: 3.7
     m_Colors:
