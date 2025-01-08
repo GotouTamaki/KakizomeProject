@@ -7,4 +7,6 @@ TextMeshProを印字風に改造してみました。
 
 - keijiro氏 NoiseShader https://github.com/keijiro/NoiseShader
 
+- Google社 Noto Sans Japanese https://fonts.google.com/noto/specimen/Noto+Sans+JP?subset=japanese&query=Noto+Sans+Japanese&noto.script=Hira
+
 - いらすとや 鯉の滝登り https://www.irasutoya.com/2015/02/blog-post_222.html
