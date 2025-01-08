@@ -1,7 +1,7 @@
 ### 書初め
 TextMeshProを印字風に改造してみました。
 
-![c312a9d60dca7335c0537d71a00682c8](https://github.com/user-attachments/assets/0fd80bc6-fb7e-48b0-8609-3a303f6aeb96)
+![2a2653e362000b5be730ea6bf00b2d7f](https://github.com/user-attachments/assets/9528d6c6-926d-4a2f-b1b6-2154bdc3799d)
 
 ## 使用したアセット
 
