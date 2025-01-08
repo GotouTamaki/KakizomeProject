@@ -7,4 +7,4 @@ TextMeshProを印字風に改造してみました。
 
 - keijiro氏 NoiseShader https://github.com/keijiro/NoiseShader
 
-- いらすとや 鯉の滝登り [https://github.com/keijiro/NoiseShader](https://www.irasutoya.com/2015/02/blog-post_222.html)
+- いらすとや 鯉の滝登り https://www.irasutoya.com/2015/02/blog-post_222.html
